@@ -1,0 +1,4 @@
+.venv/
+.continue/
+.claude/
+OFFTOXv3_chembl_pertarget.ipynb

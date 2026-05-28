@@ -1,0 +1,17 @@
+Compound ID,CHEMBL ID,SMILES
+Islatravir,CHEMBL517231,C#C[C@]1(CO)O[C@@H](n2cnc3c(N)nc(F)nc32)C[C@@H]1O
+Amcenestrant,CHEMBL4475463,COc1cccc2c1C[C@@H](C(=O)O)[C@H](c1ccc(Cl)cc1Cl)/C2=C/c1ccc(O[C@@H]2CCN(CCCF)C2)cc1
+Iclepertin (BI 425809),CHEMBL5314576,C[C@@H](Oc1ccc(S(C)(=O)=O)cc1C(=O)N1C[C@@H]2C[C@]2(c2cc(C(F)(F)F)on2)C1)C(F)(F)F
+Plitidepsin,CHEMBL451930,(Same as original)
+Difelikefalin,CHEMBL3989915,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](N)Cc1ccccc1)C(=O)N[C@H](CCCCN)C(=O)N1CCC(N)(C(=O)O)CC1
+Luvadaxistat (TAK-831),CHEMBL2338801,O=c1[nH]nc2c1CN(Cc1ccc(C(F)(F)F)cc1)CC2
+Pevonedistat (MLN4924),CHEMBL1231160,NS(=O)(=O)OC[C@@H]1C[C@@H](n2ccc3c(N[C@H]4CCc5ccccc54)ncnc32)C[C@@H]1O
+Aticaprant (JNJ-67953964),CHEMBL1921847,Cc1cc(C)cc([C@@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1
+Sonidegib,CHEMBL2105737,Cc1c(C(=O)Nc2ccc(N3C[C@@H](C)O[C@H](C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1
+Poziotinib,CHEMBL3545154,C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1
+Copanlisib,CHEMBL3218576,COc1c(OCCCN2CCOCC2)ccc2c1N=C(NC(=O)c1cnc(N)nc1)N1CCN=C21
+Ipatasertib (GDC-0068),CHEMBL2177390,CC(C)NC[C@@H](C(=O)N1CCN(c2ncnc3c2[C@H](C)C[C@H]3O)CC1)c1ccc(Cl)cc1
+Fostamatinib,CHEMBL2103830,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)N(COP(=O)(O)O)C(=O)C(C)(C)O4)n2)cc(OC)c1OC
+Niclosamide,CHEMBL1448,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O
+Resiniferatoxin,CHEMBL17976,(Same as original)
+Milademetan (DS-3032),CHEMBL4292264,CC1(C)CCC2(CC1)N[C@@H](C(=O)N[C@@H]1CC[C@@H](C(N)=O)OC1)[C@H](c1ccnc(Cl)c1F)[C@]21C(=O)Nc2cc(Cl)ccc21
